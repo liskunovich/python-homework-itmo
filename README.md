@@ -1,2 +1,1 @@
-# python-homework-itmo
-# python-homework-itmo
+# Deep Python learning course homework
