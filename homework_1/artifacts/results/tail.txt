@@ -1,0 +1,32 @@
+                   k = i
+
+           s2l = s2.substring(0, k)
+
+           s2r = s2.substring(k, s2.length)
+
+       else
+
+
+
+           s2l = s2.substring(0, s2.length / 2)
+
+           s2r = s2.substring(s2.length / 2, s2.length)
+
+           d = calcD(s2l, s1)
+
+           e = calcE(s2r, s1)
+
+           k = 0
+
+           for i = 1 to s1.length
+
+               if d[i] + e[s1.length - i] < d[k] + e[s1.length - k]
+
+                   k = i
+
+           s1l = s1.substring(0, k)
+
+           s1r = s1.substring(k, s1.length)
+
+   return levensteinInstruction(s1l, s2l) + levensteinInstruction(s1r, s2r)
+
