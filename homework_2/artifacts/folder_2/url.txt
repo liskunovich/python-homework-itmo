@@ -1,0 +1,1 @@
+https://pypi.org/project/latex-table-generator-homework-itmo-liskunovich/
