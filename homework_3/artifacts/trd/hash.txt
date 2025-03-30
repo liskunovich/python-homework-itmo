@@ -1,0 +1,2 @@
+Hash of first: 671
+Hash of second: 668
