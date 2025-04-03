@@ -1,0 +1,100 @@
+Workers: 1
+  Threads: 0.6508 seconds
+  Processes: 0.8052 seconds
+  Speedup: 0.81x
+
+Workers: 2
+  Threads: 0.7222 seconds
+  Processes: 0.4558 seconds
+  Speedup: 1.58x
+
+Workers: 3
+  Threads: 0.7222 seconds
+  Processes: 0.3351 seconds
+  Speedup: 2.16x
+
+Workers: 4
+  Threads: 0.7447 seconds
+  Processes: 0.2742 seconds
+  Speedup: 2.72x
+
+Workers: 5
+  Threads: 0.7274 seconds
+  Processes: 0.2399 seconds
+  Speedup: 3.03x
+
+Workers: 6
+  Threads: 0.7392 seconds
+  Processes: 0.2254 seconds
+  Speedup: 3.28x
+
+Workers: 7
+  Threads: 0.7314 seconds
+  Processes: 0.2079 seconds
+  Speedup: 3.52x
+
+Workers: 8
+  Threads: 0.7293 seconds
+  Processes: 0.2239 seconds
+  Speedup: 3.26x
+
+Workers: 9
+  Threads: 0.7452 seconds
+  Processes: 0.2380 seconds
+  Speedup: 3.13x
+
+Workers: 10
+  Threads: 0.7566 seconds
+  Processes: 0.2975 seconds
+  Speedup: 2.54x
+
+Workers: 11
+  Threads: 0.7542 seconds
+  Processes: 0.3407 seconds
+  Speedup: 2.21x
+
+Workers: 12
+  Threads: 0.7561 seconds
+  Processes: 0.3090 seconds
+  Speedup: 2.45x
+
+Workers: 13
+  Threads: 0.7536 seconds
+  Processes: 0.2723 seconds
+  Speedup: 2.77x
+
+Workers: 14
+  Threads: 0.7490 seconds
+  Processes: 0.2486 seconds
+  Speedup: 3.01x
+
+Workers: 15
+  Threads: 0.7403 seconds
+  Processes: 0.2587 seconds
+  Speedup: 2.86x
+
+Workers: 16
+  Threads: 0.7438 seconds
+  Processes: 0.2682 seconds
+  Speedup: 2.77x
+
+Workers: 17
+  Threads: 0.7468 seconds
+  Processes: 0.2674 seconds
+  Speedup: 2.79x
+
+Workers: 18
+  Threads: 0.7426 seconds
+  Processes: 0.2757 seconds
+  Speedup: 2.69x
+
+Workers: 19
+  Threads: 0.7485 seconds
+  Processes: 0.2984 seconds
+  Speedup: 2.51x
+
+Workers: 20
+  Threads: 0.7512 seconds
+  Processes: 0.3006 seconds
+  Speedup: 2.50x
+

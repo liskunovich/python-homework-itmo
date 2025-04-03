@@ -1,0 +1,3 @@
+Sequential Execution: 29.4738 seconds
+Threaded Execution: 29.5390 seconds
+Multiprocess Execution: 4.1800 seconds
